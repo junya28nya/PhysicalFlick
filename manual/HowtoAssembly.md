@@ -45,7 +45,7 @@
 | | |
 |---|---|
 |||
-|2-1　②基板(下)の裏表の確認　<br>表麺　<br>ひし形に「Pro Micro」と書かれた部分が左上|2-2　②基板(下)の裏表の確認　<br>裏麺 白い文字が入っていない面が裏面|
+|2-1　②基板(下)の裏表の確認　<br>表面　<br>ひし形に「Pro Micro」と書かれた部分が左上|2-2　②基板(下)の裏表の確認　<br>裏面 <br>白い文字が入っていない面が裏面|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_02.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_03.jpg)|
 |2-3　⑩アナログスティックのはんだ付け　<br>基板の表裏に注意して、裏からはんだ付け|2-4　<br>奥まで刺さり、傾いていないことを確認|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_04.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_05.jpg)|
@@ -59,3 +59,30 @@
 ### はんだ付けした部品の組み合わせ
 - 使用する部品
   - ①基板(上)、②基板(下)、残りすべて
+
+
+| | |
+|---|---|
+|||
+|3-1　⑥サイドパーツの作成　<br>6角形の穴にナットをはめる<br>2つともはめる|2-2　ナットが入らない場合 <br>下からねじをさし、<br>ねが閉まる力を使いナットをはめる|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_01.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_02.jpg)|
+|3-3　組み立て<br>フリック機構(上)(中)(下)を基板(下)に重ねる<br>アナログスティックの先が穴に通るようにする|2-4　組み立て<br>基板(上)をその上に重ねる<br>四隅の穴に突起がはまるようにする|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_03.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_04.jpg)|
+|3-5　組み立て<br>サイドパーツを取り付ける<br>裏からねじで締める<br>　|2-6　組み立て<br>ここまでを横からみた図<br>基板(上)を動かしても外れないこと、<br>スムーズに動くか確認|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_05.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_06.jpg)|
+|3-7　組み立て<br>⑩pro-micro(マイコン)に⑰USBケーブルをさし、<br>ソケットにさす|2-8　組み立て<br>⑭コネクタを取り付ける<br>　|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_07.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_08.jpg)|
+
+ここでいったん、PCに接続して動くか確認をする。
+PCに接続し、pro-micro(マイコン)が緑色に点灯、オレンジ色に数回点滅することを確認。
+メモ帳等キーボード入力できるソフトを開き、物理フリックで文字の入力ができることを確認する。
+
+確認ができたら、組み立て作業を続ける
+
+| | |
+|---|---|
+|||
+|3-9　組み立て<br>コネクタを外し、基板(下)の右上の穴に⑮結束バンドを通し<br>基板(下)とUSBケーブルを固定する|3-10　組み立て<br>USBケーブルを軽く引っ張っても<br>動かないことを確認し結束バンドを切る　|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_10.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_11.jpg)|
+|3-11　組み立て<br>裏返し、⑯滑り止めを貼る|3-12　完成<br>　|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_12.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_13.jpg)|
