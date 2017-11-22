@@ -32,7 +32,7 @@
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_04.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_05.jpg)|
 |1-5 はんだ付け後の画像 <br> 表面|1-6 はんだ付け後の画像 <br> 裏面|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_06.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_07.jpg)|
-|1-7　⑧スイッチカバーの取り付け <br> 図の並びでカバーを取り付ける|1-8 作業終了|
+|1-7　⑧スイッチカバーの取り付け <br> 図の並びでカバーを取り付ける|1-8 基板(上)のはんだ付け作業終了|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_08.jpg)|　|
 
 ### ②基板(下)のはんだ付け
@@ -42,9 +42,18 @@
 ![①基板(下)のはんだ付け部品](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_01.jpg)
 
 
+| | |
+|---|---|
 |||
-|---|----|
-|||
+|2-1　②基板(下)の裏表の確認　<br>表麺|2-2　②基板(下)の裏表の確認　<br>裏麺|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_02.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_03.jpg)|
+|2-3　⑩アナログスティックのはんだ付け　<br>基板の表裏に注意して裏からはんだ付け|2-4　<br>奥まで刺さり、傾いていないことを確認|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_04.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_05.jpg)|
+|2-5　⑪2×5ピンヘッダのはんだ付け <br>傾かないように注意|2-6　⑫ピンソケットのはんだ付け<br>傾かないように注意|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_06.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_07.jpg)|
+|2-7　<br>横から傾いてないことを確認|2-8　基板(下)のはんだ付け作業終了<br>|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_08.jpg)|　|
+
 
 
 ### はんだ付けした部品の組み合わせ
