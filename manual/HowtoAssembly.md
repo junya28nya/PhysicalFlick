@@ -45,9 +45,9 @@
 | | |
 |---|---|
 |||
-|2-1　②基板(下)の裏表の確認　<br>表麺|2-2　②基板(下)の裏表の確認　<br>裏麺|
+|2-1　②基板(下)の裏表の確認　<br>表麺　<br>ひし形に「Pro Micro」と書かれた部分が左上|2-2　②基板(下)の裏表の確認　<br>裏麺 白い文字が入っていない面が裏面|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_02.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_03.jpg)|
-|2-3　⑩アナログスティックのはんだ付け　<br>基板の表裏に注意して裏からはんだ付け|2-4　<br>奥まで刺さり、傾いていないことを確認|
+|2-3　⑩アナログスティックのはんだ付け　<br>基板の表裏に注意して、裏からはんだ付け|2-4　<br>奥まで刺さり、傾いていないことを確認|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_04.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_05.jpg)|
 |2-5　⑪2×5ピンヘッダのはんだ付け <br>傾かないように注意|2-6　⑫ピンソケットのはんだ付け<br>傾かないように注意|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_06.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/03_07.jpg)|
