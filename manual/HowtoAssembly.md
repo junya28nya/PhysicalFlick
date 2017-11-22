@@ -27,11 +27,14 @@
 |---|---|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_02.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_03.jpg)|
 |||
+|||
 |1-3 <br> すべてのスイッチを差し込んでから、裏面にはんだ付けを行う|1-4　⑪2×5ピンヘッダのはんだ付け <br> 傾かないように確認しはんだ付けを行う|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_04.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_05.jpg)|
 |||
+|||
 |1-5 はんだ付け後の画像 <br> 表面|1-6 はんだ付け後の画像 <br> 裏面|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_06.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_07.jpg)|
+|||
 |||
 |1-7　⑧スイッチカバーの取り付け <br> 図の並びでカバーを取り付ける|1-8 作業終了|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_08.jpg)|　|
