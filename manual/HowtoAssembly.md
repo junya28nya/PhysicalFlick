@@ -25,6 +25,7 @@
 
 | | |
 |---|---|
+|||
 |1-1　スイッチのはんだ付け <br>⑦スイッチを①基板(上)に差し込む <br>　|1-2　裏面 <br> スイッチの足はおらないように注意 <br> (③フリック機構(上)に干渉してしまう)|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_02.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_03.jpg)|
 |1-3 <br> すべてのスイッチを差し込んでから、裏面にはんだ付けを行う|1-4　⑪2×5ピンヘッダのはんだ付け <br> 傾かないように確認しはんだ付けを行う|
