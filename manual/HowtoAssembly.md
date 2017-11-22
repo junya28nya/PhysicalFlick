@@ -23,7 +23,7 @@
 
 ![①基板(上)のはんだ付け部品](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_01.jpg)
 
-|||
+| | |
 |---|---|
 |1-1　スイッチのはんだ付け <br>⑦スイッチを①基板(上)に差し込む <br>　|1-2　裏面 <br> スイッチの足はおらないように注意 <br> (③フリック機構(上)に干渉してしまう)|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_02.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/02_03.jpg)|
