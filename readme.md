@@ -4,6 +4,7 @@
 
 ![物理フリックの画像](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/a_00.jpg)
 
+[物理フリックキーボード使用動画](https://youtu.be/PQrwTX5ErzM)
 
 ## 仕様
 - ボタンの押下と上下左右のフリック方向から、かなの入力が行えます。
