@@ -24,7 +24,9 @@
 |⑪|Enterキー|　|　|
 
 ## development
+[development](https://github.com/junya28nya/PhysicalFlick/tree/master/development)
 プログラム、基板、部品の設計図について。
 
 ## manual
+[manual](https://github.com/junya28nya/PhysicalFlick/tree/master/manual)
 組み立て方について。
