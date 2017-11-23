@@ -12,7 +12,7 @@
 
 
 ### 各キーの説明
-![各キーの説明](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/a_00.jpg)
+![各キーの説明](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/a_01.jpg)
 
 |||||
 |---|---|---|---|
@@ -24,9 +24,9 @@
 |⑪|Enterキー|　|　|
 
 ## development
-[development](https://github.com/junya28nya/PhysicalFlick/tree/master/development)
+[development](https://github.com/junya28nya/PhysicalFlick/tree/master/development)  
 プログラム、基板、部品の設計図について。
 
-## manual
+## manual  
 [manual](https://github.com/junya28nya/PhysicalFlick/tree/master/manual)
 組み立て方について。
