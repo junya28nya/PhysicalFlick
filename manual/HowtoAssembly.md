@@ -71,11 +71,12 @@
 |3-5　組み立て<br>サイドパーツを取り付ける<br>裏からねじで締める<br>　|2-6　組み立て<br>ここまでを横からみた図<br>基板(上)を動かしても外れないこと、<br>スムーズに動くか確認|
 |![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_05.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_06.jpg)|
 |3-7　組み立て<br>⑩pro-micro(マイコン)に⑰USBケーブルをさし、<br>ソケットにさす|2-8　組み立て<br>⑭コネクタを取り付ける<br>　|
-|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_07.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_08.jpg)|
+|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_08.jpg)|![](https://github.com/junya28nya/PhysicalFlick/blob/master/manual/Resources/04_09.jpg)|
 
-ここでいったん、PCに接続して動くか確認をする。
-PCに接続し、pro-micro(マイコン)が緑色に点灯、オレンジ色に数回点滅することを確認。
-メモ帳等キーボード入力できるソフトを開き、物理フリックで文字の入力ができることを確認する。
+ここでいったん、PCに接続して動くか確認をする。  
+PCに接続し、pro-micro(マイコン)が緑色に点灯、オレンジ色に数回点滅することを確認。  
+メモ帳等キーボード入力できるソフトを開き、物理フリックで文字の入力ができることを確認する。  
+[参考動画](https://youtu.be/PQrwTX5ErzM)
 
 確認ができたら、組み立て作業を続ける
 
