@@ -90,6 +90,19 @@ void Dakuon(){
   }
 }
 
+void printNumber(){
+  delay(100);
+  
+  while(digitalRead(IN[in_now]) == LOW){}      
+
+  int shin = in_now*3+out_now-1;
+  if(shin == 10){
+    Keyboard.print(0);
+  }else{
+    Keyboard.print(shin+1);
+  }
+}
+
 void ReverceKana(){
   if(pre_kana[2] == 0){
     Keyboard.write(KEY_BACKSPACE);

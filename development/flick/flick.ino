@@ -43,6 +43,9 @@ bool isPush = false;
 
 int i = 0;
 
+// 入力モード [0]=標準, [1]=数字
+int input_mode = 0; 
+
 bool isPreKaomozi;
 
 void setup() {
@@ -74,7 +77,8 @@ void loop() {
 
     //戻るキー
     if(in_now == 0 && out_now == 0){
-      ReverceKana();
+      // ReverceKana();
+      input_mode += 1;
       delay(100);
       while(digitalRead(IN[in_now]) == LOW){}
     //backspace
@@ -129,11 +133,25 @@ void loop() {
       Dakuon();
       delay(100);
       while(digitalRead(IN[in_now]) == LOW){}
-    //かな入力
+    //入力
     }else if(out_now >=1 && out_now <= 3){
-      //濁点ではない場合
       if(!(in_now ==3 && out_now ==1)){
-        PrintKana();
+        switch (input_mode)
+        {
+          // 日本語かな
+          //濁点ではない場合
+          case 0:
+            PrintKana();
+            break;
+
+          case 1:
+            printNumber();
+            break;
+
+          default:
+            input_mode = 0;
+            break;
+        }
       }
     }
 
