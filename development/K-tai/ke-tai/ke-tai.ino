@@ -12,7 +12,7 @@ const String KANA[12][5] =
   {"ya", "yu", "yo", "ya", "yu"},
   {"ra", "ri", "ru", "re", "ro"},
   {"", "", "", "", ""},
-  {"wa", "wo", "nn", "-", "~"},
+  {"wa", "wo", "nn", "-", "+"},
   { ",",  ".",  "!",  "?",   "_"}
 };
 const String DAKUTEN[3][5] = 
@@ -25,7 +25,7 @@ const String BAPA[2][5] =
   {"pa", "pi", "pu", "pe", "po"}
 };
 const String ACHISAI[5] = {"la", "li", "lu", "le", "lo"};
-const String YCHISAI[5] = {"lya", "lya", "lyu", "lya", "lyo"};
+const String YCHISAI[5] = {"lya", "lyu", "lyo", "lya", "lyu"};
 
 const String NUMBER[10] = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0"};
 
@@ -33,7 +33,9 @@ const String NUMBER[10] = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0"};
 const int IN[4] = {15, 14, 16, 10};
 const int OUT[5] = {4, 5, 6, 7, 8};
 
-const int TIME_CHATTERING_MS = 100;
+const int TIME_CHATTERING_MS = 80;
+
+const int TIME_DELAY_KEYPUSH_MS = 10;
 
 //マトリクス捜査、現在の値。
 //この2つの交点座標から押されたボタンを割り出す
@@ -49,15 +51,12 @@ int push_cnt = 0;
 //[2]=かなの状態→濁点等なし0、濁点1、半濁点2、小さい1(濁点と小さいかなは競合しない)
 int pre_kana[3] = { -1, -1, -1};
 
-//アナログスティック 0:x, 1:y
-int stick[2];
 
 //ボタンを押したかどうか
 bool isPush = false;
 
 int i = 0;
 
-bool isPreKaomozi;
 
 
 void setup() {
@@ -116,7 +115,7 @@ void loop() {
 
       //濁点、半濁点、大小キー
     } else if (in_now == 3 && out_now == 1) {
-
+      DakutenKey();
       //かな入力
     } else if (out_now >= 1 && out_now <= 3) {
       Print_kana();
